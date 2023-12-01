@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyhamAsfoor
 - 👀 I’m interested in Cybersecyrity
-- 🌱 I’m currently learning Network Engnerin
+- 🌱 I’m currently learning Network Engnering
 - 📫 How to reach me Ayhamasfoor1@gmail.com
 
 <!---
