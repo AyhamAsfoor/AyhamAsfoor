@@ -1,4 +1,5 @@
-![download](https://github.com/AyhamAsfoor/AyhamAsfoor/assets/126945679/6bb4226b-5cd1-4520-88dc-364de46e075f)
+![Gray And Black  Simple Personal LinkedIn Banner](https://github.com/AyhamAsfoor/AyhamAsfoor/assets/126945679/8e04ec6a-a99f-41df-9edf-f368bc9c2af0)
+
 # Hi there, I'm Ayham Asfoor! 👋
 
 ## About Me
