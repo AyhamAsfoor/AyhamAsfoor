@@ -14,4 +14,4 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayham%20Asfoor-blue)](https://www.linkedin.com/in/ayham-asfoor/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayham%20Asfoor-blue)](https://www.linkedin.com/in/ayham-asfoor-949630256/)
