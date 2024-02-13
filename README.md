@@ -12,7 +12,9 @@
 
 ## Get in Touch
 
-📫 Feel free to reach out to me via email at [Ayhamasfoor1@gmail.com](mailto:Ayhamasfoor1@gmail.com) to connect or discuss cybersecurity-related topics.
+📧 You can reach out to me via email at:
+- [Ayhamasfoor1@gmail.com](mailto:Ayhamasfoor1@gmail.com)
+- [Ayhamasfoor1@ieee.org](mailto:Ayhamasfoor1@ieee.org)
 
 ## Connect with Me
 
