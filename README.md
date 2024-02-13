@@ -2,8 +2,6 @@
 
 # Hi there, I'm Ayham Asfoor! 👋
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-
 ## About Me
 
 👨‍💻 I'm a passionate cybersecurity enthusiast currently focusing on Network Engineering and exploring various aspects of information security.
