@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ayham Asfoor
 
-## 🛡️ Cybersecurity Enthusiast | 🧠 Lifelong Learner | 🌐 Network Engineering Student
+## 🛡️ Cybersecurity Enthusiast | 🌐 Network Engineering Student | 🔐 Threat Hunter
 
 ---
 
