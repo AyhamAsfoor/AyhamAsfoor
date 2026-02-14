@@ -90,5 +90,5 @@ My passion lies in bridging the gap between offensive tooling and defensive stra
   <b>— Ayham Asfoor</b>
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=AyhamAsfoor&color=00ff00&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AyhamAsfoor&color=00ff00&style=flat-square&label=PROFILE+VIEWS&base=5000" alt="Profile Views" />
 </div>
