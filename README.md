@@ -92,8 +92,3 @@ My passion lies in bridging the gap between offensive tooling and defensive stra
   
   <img src="https://komarev.com/ghpvc/?username=AyhamAsfoor&color=00ff00&style=flat-square&label=PROFILE+VIEWS&base=5000" alt="Profile Views" />
 </div>
-
-### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://github.com/AyhamAsfoor/AyhamAsfoor/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
